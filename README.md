@@ -9,6 +9,7 @@
 
 # Resolve merge conflicts CHMF
 
+
 _Learn why conflicts happen and how to resolve them._
 
 </header>
